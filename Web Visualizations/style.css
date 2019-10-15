@@ -1,0 +1,38 @@
+h1 {
+    margin: 2rem 10rem;
+  }
+
+h2 {
+    display: block;
+    text-align: center;
+
+    }
+
+body {
+    margin: 20px;
+
+    }
+
+.col-xs-8 {
+    padding: 20px;
+    border: 10px solid lightgrey;
+
+}
+.col-xs-4 {
+    padding: 20px;
+    border: 10px solid lightgrey;
+
+}
+
+p {
+    margin: 20px;
+}
+
+button {
+    margin: 1rem 7rem;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
