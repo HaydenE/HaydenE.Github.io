@@ -8,6 +8,12 @@ h2 {
 
     }
 
+h5 {
+    font-size: 40px;
+
+}
+
+
 body {
     margin: 20px;
 
@@ -24,6 +30,11 @@ body {
 
 }
 
+.col-xs-12 {
+    padding: 20px;
+    background-color: white
+}
+
 p {
     margin: 20px;
 }
@@ -35,4 +46,15 @@ button {
 img {
     width: 100%;
     height: auto;
+}
+
+.sidebar {
+    width: 45%;
+    height: auto;
+    padding: 2px
+
+}
+
+.page-header {
+    font-size: 300px;
 }
