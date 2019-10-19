@@ -23,10 +23,10 @@
                 Climate change is a problem of the 21st Century that will affect humans around the globe. This project is one among a great many that documents correlations between temperature and other factors to give some insight into global climate variations. Please click the links below to find out more!
             </p>
             <div class="btn-group-vertical" role="group" aria-label="Visualization Buttons">
-                <button type="button" onclick= "window.location.href='visualization_1.html'" class="btn btn-info">Latitude Versus Max Temperature</button>
-                <button type="button" onclick= "window.location.href='visualization_2.html'" class="btn btn-info">Latitude Versus Humidity</button>
-                <button type="button" onclick= "window.location.href='visualization_3.html'" class="btn btn-info">Latitude Versus Cloudiness</button>
-                <button type="button" onclick= "window.location.href='visualization_4.html'" class="btn btn-info">Latitude Versus Wind Speed</button>
+                <button type="button" onclick= "window.location.href='Visualization_1.html'" class="btn btn-info">Latitude Versus Max Temperature</button>
+                <button type="button" onclick= "window.location.href='Visualization_2.html'" class="btn btn-info">Latitude Versus Humidity</button>
+                <button type="button" onclick= "window.location.href='Visualization_3.html'" class="btn btn-info">Latitude Versus Cloudiness</button>
+                <button type="button" onclick= "window.location.href='Visualization_4.html'" class="btn btn-info">Latitude Versus Wind Speed</button>
             </div>
         </div>
 
